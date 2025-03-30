@@ -1,0 +1,16 @@
+{
+  "name": "ecs-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for ECS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
